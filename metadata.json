@@ -1,0 +1,6 @@
+{
+  "name": "Vật Lí Thực Chứng AI",
+  "description": "VẬT LÍ THỰC CHỨNG AI - Từ dự đoán đến bằng chứng – Phát triển năng lực thực nghiệm và tư duy khoa học cho học sinh THCS bằng trí tuệ nhân tạo. Tác giả: Đỗ Thị Giáng Châu - THCS Chu Văn An, Đồng Nai.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
